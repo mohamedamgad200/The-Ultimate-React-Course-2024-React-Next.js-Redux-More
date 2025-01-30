@@ -1,0 +1,32 @@
+Section 5
+CHALLENGE #1:Profile Card (v1):
+https://codesandbox.io/p/sandbox/react-challenge-dev-profile-starter-forked-9hz4zp?file=%2Fsrc%2Findex.js%3A1%2C1&workspaceId=69f4d19d-4e29-4abf-b993-bc160166534d
+CHALLENGE #2:Profile Card (v2):
+https://codesandbox.io/p/sandbox/challenge-2-profile-card-v2-p5lryc
+section 6
+CHALLENGE #1 Date Counter (v1):
+https://codesandbox.io/p/sandbox/frosty-sun-5qmdh5?file=%2Fsrc%2FApp.js%3A27%2C56&workspaceId=69f4d19d-4e29-4abf-b993-bc160166534d
+EXERCISE #1 Flashcards:
+https://codesandbox.io/p/sandbox/react-exercise-flashcards-starter-forked-y6h6ff?file=%2Fsrc%2FApp.js%3A48%2C44-48%2C48&workspaceId=69f4d19d-4e29-4abf-b993-bc160166534d
+CHALLENGE #2 Date Counter (v2):
+https://codesandbox.io/p/sandbox/blue-dust-7z676k?file=%2Fsrc%2FApp.js%3A56%2C9&workspaceId=69f4d19d-4e29-4abf-b993-bc160166534d
+section 7
+EXERCISE #1 Accordion Component (v1):
+https://codesandbox.io/p/sandbox/react-exercise-accordion-starter-forked-xmwywl?file=%2Fsrc%2FApp.js%3A34%2C26&workspaceId=69f4d19d-4e29-4abf-b993-bc160166534d
+EXERCISE #2 Accordion Component (v2):
+https://codesandbox.io/p/sandbox/exercise-2-accordion-component-v2-khtw5n?file=%2Fsrc%2FApp.js%3A49%2C13&workspaceId=69f4d19d-4e29-4abf-b993-bc160166534d
+CHALLENGE #1 Tip Calculator:
+https://codesandbox.io/p/sandbox/challenge-1-tip-calculator-mmdt2p?file=%2Fsrc%2FApp.js%3A32%2C1&workspaceId=69f4d19d-4e29-4abf-b993-bc160166534d
+section 10
+CHALLENGE #1 Text Expander Component:
+https://codesandbox.io/p/sandbox/17-challenge-1-text-expander-component-fr433x?file=%2Fsrc%2FApp.js%3A49%2C37&workspaceId=69f4d19d-4e29-4abf-b993-bc160166534d
+section 12
+CHALLENGE #1 currency-converter:
+https://codesandbox.io/p/sandbox/react-challenge-currency-converter-starter-forked-99swsz?file=%2Fsrc%2FApp.js%3A26%2C14&workspaceId=69f4d19d-4e29-4abf-b993-bc160166534d
+section 13
+CHALLENGE #1: useGeolocate:
+https://codesandbox.io/p/sandbox/react-challenge-usegeolocation-starter-forked-vs2s9s?file=%2Fsrc%2FApp.js%3A18%2C16&workspaceId=69f4d19d-4e29-4abf-b993-bc160166534d
+section 16
+CHALLENGE #1: create bank account with useReducer:
+https://codesandbox.io/p/sandbox/react-challenge-usereducer-bank-starter-forked-ykvcy3?file=%2Fsrc%2FApp.js%3A11%2C82&workspaceId=ws_E5sNR82xBy3kXU6cCnatmJ
+section 18
